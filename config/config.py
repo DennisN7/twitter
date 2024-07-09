@@ -1,0 +1,5 @@
+# Store your API credentials here
+API_KEY = 'NVoLbu4oVnpWyoxT12lQAcw8a'
+API_SECRET_KEY = 'TMBVfmldf6ymlOfmZhRup16TSZlexQHaJHHYuRYOh2F0Ekpvcx'
+ACCESS_TOKEN = '722007254887723008-MkaZzwYSznr034GifrgGSSdcdeNLgVR'
+ACCESS_TOKEN_SECRET = 'A5UzqV8gPcxh18h6gfKhbHdqNdL7MfZBSCwAc4OROgMez'
